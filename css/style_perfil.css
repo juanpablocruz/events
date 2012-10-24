@@ -1,0 +1,36 @@
+#dImagePerfil
+{
+height:300px;
+float:right;
+position:relative;
+}
+#dInfo{
+position:relative;
+right: 6em;
+top:2em;
+margin-left:10em;
+background-color: #dfdfdf;
+background-size: 100%;
+width:28em;
+padding:4em;
+box-shadow: 10px 10px 5px darkolivegreen;
+}
+#dInfo input{
+background-color:none;
+}
+#dImgLoad{
+position:relative;
+}
+#ulInfo{
+list-style:none;
+padding-left:0;
+}
+#ulInfo li{
+	line-height: 1.3em;
+	text-align: left;
+	padding:0;
+	margin:1em;
+}
+#ulInfo li:hover{
+background-color:#f2f2f2;
+}

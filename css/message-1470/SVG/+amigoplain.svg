@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="26.057215"
+   height="25.654778"
+   id="svg2987">
+  <defs
+     id="defs2989">
+    <linearGradient
+       id="linearGradient3777">
+      <stop
+         id="stop3779"
+         style="stop-color:#108a10;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata2992">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-27.296676,-30.390376)"
+     id="layer1">
+    <path
+       d="m 36.971491,30.593703 c -3.196326,0 -5.786251,2.92058 -5.786251,6.523299 0,2.874312 1.649318,5.313104 3.939395,6.182308 C 29.873682,45.186869 26.639289,48.780749 27.5,55.839716 l 19.326331,0.0021 c -0.44564,-5.814191 -2.48227,-10.921275 -7.700881,-12.669602 2.129588,-0.963131 3.634409,-3.310595 3.634409,-6.05523 0,-3.602719 -2.592043,-6.523299 -5.788368,-6.523296 z"
+       id="path2995"
+       style="fill:#f48500;fill-opacity:1;fill-rule:evenodd;stroke:#ffc292;stroke-width:0.40664718;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       x="45.356518"
+       y="56.441097"
+       transform="scale(1.0042231,0.99579465)"
+       id="text3787"
+       xml:space="preserve"
+       style="font-size:32.03399277px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:1000%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#da5502;fill-opacity:1;stroke:#ffc292;stroke-width:0.40664718;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Maven Pro;-inkscape-font-specification:Sans Bold"><tspan
+         x="45.356518"
+         y="56.441097"
+         id="tspan3789"
+         style="fill:#da5502;fill-opacity:1;stroke:#ffc292;stroke-width:0.40664718;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">+</tspan></text>
+  </g>
+</svg>

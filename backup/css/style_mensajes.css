@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'MavenProMedium';
+    src: url('maven_pro_medium-webfont.eot');
+    src: url('maven_pro_medium-webfont.eot?#iefix') format('eot'),
+         url('maven_pro_medium-webfont.woff') format('woff'),
+         url('maven_pro_medium-webfont.ttf') format('truetype'),
+         url('maven_pro_medium-webfont.svg#webfontNj5iy4Dl') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.dContenidoMsg{
+	visibility:hidden;
+}
+.Message{
+	visibility:hidden;
+}
+#ulMessages{
+list-style:none;
+cursor:pointer;
+padding:0;
+margin:0;
+}
+#ulMessages li{
+	line-height: 1.3em;
+	border-bottom:0.1em solid #CCC;
+	text-align: left;
+	padding:0;
+	padding-left:1em;
+	margin:0;
+}
+#ulMessages li:hover{
+background-color:#ffffdd;
+}
+#Messages{
+width:40em;
+}
+.pHeader{
+padding:0;
+margin-bottom:0;
+border-bottom:1px solid #D9D9D9;
+}
+#iNewMsg{
+display:inline-block;
+margin-right:0.2em;
+height: 16px;
+width: 16px; 
+background:url(png16.png)  -16px -33px;
+}
+#newmssg{
+font-family: 'MavenProMedium' !important;
+background:-webkit-gradient(linear,left bottom,left top,color-stop(0,#E2E2E2),color-stop(1,#FEFFFE));
+border: 1px solid #CCC;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+border-top-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+border-top-color: #CCC;
+border-right-color: #CCC;
+border-bottom-color: #CCC;
+border-left-color: #CCC;
+-webkit-border-radius: 3px;
+height:2.5em;
+}
+#newmssg:hover{
+background:-webkit-gradient(linear,left bottom,left top,color-stop(0,#f2f2f2),color-stop(1,#Fefefe));
+}
+#newmssg:active{
+background:-webkit-gradient(linear,left bottom,left top,color-stop(0,#FEFFFE),color-stop(1,#D4D4D4));
+}
+#Date{
+padding-left:17em;
+}
+#MessagesBar{
+/*Este div contiene el boton de nuevo mensaje,y contendra la lista de organizar mensajes, deberia ocupar la parte izquierda de la pantalla*/
+}

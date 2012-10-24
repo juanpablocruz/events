@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="5.609"
+   height="5.268"
+   id="svg2">
+  <defs
+     id="defs4">
+    <filter
+       x="-0.1089"
+       y="-0.05968"
+       width="1.218"
+       height="1.119"
+       color-interpolation-filters="sRGB"
+       id="filter3801">
+      <feGaussianBlur
+         id="feGaussianBlur3803"
+         stdDeviation="2.4066265" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(4.114,-113.2)"
+     id="layer1">
+    <path
+       d="m 197.1,397.8 -53.1,48.4 53.1,48.4 0,-18 -34.1,-31.1 34.1,-31.1 0,-16.6 z"
+       transform="matrix(0.0503,0,0,0.0466,-8.8,95.01)"
+       id="path2985"
+       style="fill:#974702;fill-opacity:1;stroke:#974702;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3801)" />
+    <path
+       d="m 0.876,113.7 -2.228,2.1 2.228,2.1 0,-0.8 -1.4321,-1.3 1.4321,-1.4 0,-0.7 z"
+       id="path3759"
+       style="fill:#ff972f;fill-opacity:1;stroke:#ff972f;stroke-width:0.1696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="m 197.1,397.8 -53.1,48.4 53.1,48.4 0,-18 -34.1,-31.1 34.1,-31.1 0,-16.6 z"
+       transform="matrix(0.0503,0,0,0.0466,-10.96,95.05)"
+       id="path3805"
+       style="fill:#974702;fill-opacity:1;stroke:#974702;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3801)" />
+    <path
+       d="m -1.286,113.8 -2.228,2 2.228,2.1 0,-0.8 -1.432,-1.3 1.432,-1.3 0,-0.7 z"
+       id="path3807"
+       style="fill:#ff972f;fill-opacity:1;stroke:#ff972f;stroke-width:0.1696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  </g>
+</svg>

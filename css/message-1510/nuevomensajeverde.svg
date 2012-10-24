@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="130mm"
+   height="110mm"
+   id="svg2987"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="+mensajeverde.svg">
+  <defs
+     id="defs2989">
+    <linearGradient
+       id="linearGradient3777"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#108a10;stop-opacity:1;"
+         offset="0"
+         id="stop3779" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="277.51349"
+     inkscape:cy="114.45131"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2992">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#1bf400;fill-opacity:1;fill-rule:evenodd;stroke:#0a6502;stroke-width:12.00005464000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3791"
+       width="394.6571"
+       height="246.04088"
+       x="-17.026705"
+       y="125.87919"
+       ry="5.705821"
+       transform="matrix(0.97256684,-0.23262361,0.22846969,0.97355103,0,0)"
+       inkscape:export-filename="C:\Users\erik\Pictures\web\+mensajenaranja.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#1bf400;fill-opacity:1;fill-rule:evenodd;stroke:#0a6502;stroke-width:7.92519961999999990;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3793"
+       sodipodi:sides="3"
+       sodipodi:cx="-190.21172"
+       sodipodi:cy="-13.287071"
+       sodipodi:r1="91.197586"
+       sodipodi:r2="45.598793"
+       sodipodi:arg1="-0.71955939"
+       sodipodi:arg2="0.32763816"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M -121.62236,-73.391146 -172.45474,76.165092 -276.55805,-42.635159 z"
+       inkscape:transform-center-x="9.8865878"
+       inkscape:transform-center-y="-1.534801"
+       transform="matrix(2.3778187,-0.37678359,-0.25096812,1.0039594,664.06625,67.457075)"
+       inkscape:export-filename="C:\Users\erik\Pictures\web\+mensajenaranja.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
